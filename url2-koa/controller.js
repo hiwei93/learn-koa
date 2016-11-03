@@ -24,7 +24,6 @@ function addMapping(router, mapping) {
     }
 }
 
-
 /**
  * 扫描并运行文件
  */
